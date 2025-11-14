@@ -1,11 +1,12 @@
-export const poetryEntries = [
-  {
-    title: 'the three of us',
-    date: '',
-    content: [
-      {
-        type: 'verse',
-        text: `the three of us
+export const poetryList = [
+  { title: 'the three of us', slug: 'the-three-of-us' },
+  { title: 'kaufman\'s hell', slug: 'kaufmans-hell' },
+  { title: 'white noise', slug: 'white-noise' }
+]
+
+export const poetryEntries = {
+  'the-three-of-us': {
+    content: `the three of us
 looking in the sky, our toes touching the coast 
 me, him and my wife
 a familiar stranger who like a lady bug crawled on her arm
@@ -31,16 +32,9 @@ here lies on the beach footprints of
 the three of us
 husband, lost love & the alzheimer riddled wife
 the three of us.`
-      }
-    ]
   },
-  {
-    title: 'kaufman\'s hell',
-    date: '',
-    content: [
-      {
-        type: 'verse',
-        text: `as I walk through the street I look into the window 
+  'kaufmans-hell': {
+    content: `as I walk through the street I look into the window 
 of a pale pink coloured house 
 and girl stands there around 4 maybe 5 
 trying on red stilettoes of size 36 maybe 7
@@ -89,16 +83,9 @@ and I see myself walking in from work I was supposed to leave for
 slowly the world around me starts spinning turning into a vertigo 
 and I see myself turned into a cockroach witnessing a hot girl 
 in sexy dress and red stilettoes blowing a man off.`
-      }
-    ]
   },
-  {
-    title: 'white noise',
-    date: '',
-    content: [
-      {
-        type: 'verse',
-        text: `grey and white pieces on mosaic 
+  'white-noise': {
+    content: `grey and white pieces on mosaic 
 
 fluttering 
 shadows and whisps casted on a high pixeled screen 
@@ -109,7 +96,5 @@ they creep
 as hands in between hands 
 or a church choir band 
 …and? I weep.`
-      }
-    ]
   }
-]
+}

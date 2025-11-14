@@ -1,7 +1,8 @@
-import EmptySection from '../components/EmptySection'
+import PageLayout from '../components/PageLayout'
+import { editProjects } from '../data/projects'
 
 function Edits() {
-  return <EmptySection sectionId="edits" navItems={[]} text="will update soon" />
+  return <PageLayout sectionId="edits" navItems={editProjects} />
 }
 
 export default Edits

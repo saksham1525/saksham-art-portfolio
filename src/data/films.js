@@ -52,14 +52,21 @@ export const filmEntries = {
   },
   'tasveerein': {
     content: [
-      "Why should I reveal what hides in the heart—",
-      "a secret so fragile it trembles at the thought of being spoken?",
-      "This film drifts through that fear: that if we finally confess the ache,",
-      "the world might simply shrug and ask, \"Is that all?\"",
+      "Why should I reveal what hides in the heart—a secret so fragile it trembles at the thought of being spoken?",
+      "This film drifts through that fear: that if we finally confess the ache, the world might simply shrug and ask Is that all?",
       "It is a portrait of unspoken longing, of emotions too small for grand tragedy",
-      "yet too immense to carry alone."
+      "What an experience!"
     ],
     image: '/images/tasveerein-detail.png'
+  },
+  'mysuru-dussera': {
+    content: [
+      "A special experimental film about the longing of the city of Mysuru.",
+      "A surreally painted portrait of the memories of Mysuru or lack thereof came as a haunting reminder of the distance between the city and the heart.",
+      "My last film still unconcluded but means a lot to me!",
+      "Rightfully haunting me as the city haunts the protagonist."
+    ],
+    image: '/images/mysurudasara-detail.png'
   }
 }
 

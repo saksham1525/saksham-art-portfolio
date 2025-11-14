@@ -58,6 +58,11 @@ export const videoData = {
     title: 'eternal sunshine',
     videoId: '1136790503',
     platform: 'vimeo'
+  },
+  'mysuru-dussera': {
+    title: 'mysuru dussera',
+    videoId: 'liDyQcxWQrE',
+    platform: 'youtube'
   }
 }
 

@@ -1,8 +1,8 @@
-import EmptySection from '../components/EmptySection'
+import PageLayout from '../components/PageLayout'
 import { reviewProjects } from '../data/projects'
 
 function Reviews() {
-  return <EmptySection sectionId="reviews" navItems={reviewProjects} />
+  return <PageLayout sectionId="reviews" navItems={reviewProjects} />
 }
 
 export default Reviews

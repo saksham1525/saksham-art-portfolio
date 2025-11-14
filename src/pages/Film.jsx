@@ -1,8 +1,8 @@
-import EmptySection from '../components/EmptySection'
+import PageLayout from '../components/PageLayout'
 import { filmProjects } from '../data/projects'
 
 function Film() {
-  return <EmptySection sectionId="film" navItems={filmProjects} />
+  return <PageLayout sectionId="film" navItems={filmProjects} />
 }
 
 export default Film

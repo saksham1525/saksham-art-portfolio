@@ -785,3 +785,27 @@ a:hover {
     }
 }
 
+/* Logo Styling */
+.brand-img { display: block; }
+.brand-img img { max-width: 60px; height: auto; display: block; }
+#header .brand-img { margin-bottom: 1rem; }
+
+/* Poetry List Minimal Style */
+.poetry-list-minimal { padding: 2rem; line-height: 1.8; }
+.poetry-list-minimal a { color: inherit; text-decoration: none; }
+.poetry-list-minimal a:hover { text-decoration: underline; }
+
+/* Footer Styling */
+.main-footer { background: #000; color: #fff; padding: 2rem 0 1rem; margin-top: 4rem; }
+.main-footer-upper { text-align: center; margin-bottom: 1.5rem; }
+.main-footer-upper p { margin: 0 auto; }
+.site-links { list-style: none; padding: 0; margin: 0; display: flex; justify-content: center; gap: 1.5rem; }
+.site-links li { display: inline-block; }
+.site-links a { display: flex; align-items: center; gap: 0.5rem; color: #fff; text-decoration: none; transition: opacity 0.3s; }
+.site-links a:hover { opacity: 0.7; }
+.site-links span { font-size: 0.9rem; }
+.social-icon { width: 24px; height: 24px; fill: currentColor; }
+.linkedin-icon { transform: scale(0.6); }
+.main-footer-lower { text-align: center; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); }
+.main-footer-lower p { margin: 0; font-size: 0.85rem; opacity: 0.7; }
+
