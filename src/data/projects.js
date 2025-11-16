@@ -15,7 +15,7 @@ export const homeProjects = [
   createProject('devdas', '/images/devd.jpg', '/video/devdas'),
   createProject('pulp fiction', '/images/pulpfiction.jpg', '/video/pulp-fiction'),
   createProject('untitled no. 15', '/images/placeholder-6.jpg', '#project-14'),
-  createProject('dil se - comming soon', '/images/dilse.jpg', '#dil-se')
+  createProject('dil se', '/images/dilse.jpg', '/video/dil-se')
 ]
 
 export const filmProjects = [

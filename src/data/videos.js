@@ -63,6 +63,11 @@ export const videoData = {
     title: 'mysuru dussera',
     videoId: 'liDyQcxWQrE',
     platform: 'youtube'
+  },
+  'dil-se': {
+    title: 'dil se',
+    videoId: 'NhCY3FgAshA',
+    platform: 'youtube'
   }
 }
 

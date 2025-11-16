@@ -48,9 +48,11 @@ export const editEntries = {
   },
   'dil-se': {
     content: [
+      "Cut on Hungama Hai Kyun Barpa by Ghulam Ali.",
       "",
+      "An allegory of a nation and its estranged, conflict-scarred frontier, told through the metaphor of a man and a girl. What appears regressive or unsettling becomes, through a shifted lens, a reflection of long-standing fractures—histories that resist neat resolution. Their relationship carries the weight of imbalance, a tension that cannot be softened by proximity.",
       "",
-      "Currently Editing!"
+      "That is why, though they form the core of the narrative, in the edit they never share a single frame. Their distance is the only honest way to portray a bond shaped not by harmony, but by the quiet gravity of a landscape marked by loss, longing, and unspoken debts."
     ],
     image: '/images/dilse-detail.jpeg'
   }
