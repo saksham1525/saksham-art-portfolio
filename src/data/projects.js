@@ -1,32 +1,32 @@
 const createProject = (title, image, link) => ({ title, image, link })
 
 export const homeProjects = [
-  createProject('worst person in the world', '/images/worstperson.jpg', '/video/worst-person-in-the-world'),
+  createProject('worst person in the world', '/images/worst-person.jpg', '/video/worst-person-in-the-world'),
   createProject('summer', '/images/summer.png', '/video/summer'),
   createProject('becharii', '/images/becharii.png', '/video/becharii'),
   createProject('tasveerein', '/images/tasveerein.png', '/video/tasveerein'),
-  createProject('the wilted rose', '/images/thewiltedrose.png', '/video/the-wilted-rose'),
-  createProject('eternal sunshine', '/images/eternal-sunshine.jpeg', '/video/eternal-sunshine'),
+  createProject('the wilted rose', '/images/the-wilted-rose.png', '/video/the-wilted-rose'),
+  createProject('eternal sunshine', '/images/eternal-sunshine.jpg', '/video/eternal-sunshine'),
   createProject('manto', '/images/manto.jpg', '/video/manto'),
   createProject('zeher', '/images/zeher.png', '/video/zeher'),
   createProject('mysuru dasara', '/images/mysurudasara.png', '/video/mysuru-dussera'),
   createProject('aaja\'22', '/images/aaja22.png', '/video/aaja-22'),
   createProject('aaja\'23', '/images/aaja23.png', '/video/aaja-23'),
   createProject('devdas', '/images/devd.jpg', '/video/devdas'),
-  createProject('pulp fiction', '/images/pulpfiction.jpg', '/video/pulp-fiction'),
-  createProject('untitled no. 15', '/images/placeholder-6.jpg', '#project-14'),
+  createProject('pulp fiction', '/images/pulp-fiction.jpg', '/video/pulp-fiction'),
+  createProject('untitled no. 15', '/images/untitled-no-15.jpg', '#project-14'),
   createProject('dil se', '/images/dilse.jpg', '/video/dil-se')
 ]
 
 export const filmProjects = [
-  { title: 'summer', path: '/film/summer', youtubeUrl: 'https://www.youtube.com/watch?v=rECHXAmsubw' },
-  { title: 'aaja\'22', path: '/film/aaja-22', youtubeUrl: 'https://www.youtube.com/watch?v=vyYQDhoxLVI' },
-  { title: 'aaja\'23', path: '/film/aaja-23', youtubeUrl: 'https://www.youtube.com/watch?v=M1zBOrTG1P8' },
-  { title: 'zeher', path: '/film/zeher', youtubeUrl: 'https://www.youtube.com/watch?v=aY4prUqr3jY' },
-  { title: 'becharii', path: '/film/becharii', youtubeUrl: 'https://www.youtube.com/watch?v=xwdVjkv4Nz4' },
-  { title: 'the wilted rose', path: '/film/the-wilted-rose', youtubeUrl: 'https://www.youtube.com/watch?v=JHU2or1ZKSs' },
-  { title: 'tasveerein', path: '/film/tasveerein', youtubeUrl: 'https://www.youtube.com/watch?v=Lz6oINqA4ZI' },
-  { title: 'mysuru dussera', path: '/film/mysuru-dussera', youtubeUrl: 'https://www.youtube.com/watch?v=liDyQcxWQrE' }
+  { title: 'summer', path: '/film/summer' },
+  { title: 'aaja\'22', path: '/film/aaja-22' },
+  { title: 'aaja\'23', path: '/film/aaja-23' },
+  { title: 'zeher', path: '/film/zeher' },
+  { title: 'becharii', path: '/film/becharii' },
+  { title: 'the wilted rose', path: '/film/the-wilted-rose' },
+  { title: 'tasveerein', path: '/film/tasveerein' },
+  { title: 'mysuru dussera', path: '/film/mysuru-dussera' }
 ]
 
 export const editProjects = [
@@ -38,8 +38,6 @@ export const editProjects = [
   { title: 'dil se', path: '/edits/dil-se' },
   { title: 'untitled no. 15', path: '/edits' }
 ]
-
-export const poetryProjects = []
 
 export const playsProjects = [
   { title: 'love and information', path: '/plays/love-and-information' },

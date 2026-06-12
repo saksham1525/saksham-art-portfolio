@@ -7,10 +7,7 @@ function EditsContent() {
   const { slug } = useParams()
   const entry = editEntries[slug]
   
-  const getImage = () => {
-    if (!entry) return null
-    return entry.images ? entry.images[Math.floor(Math.random() * entry.images.length)] : entry.image
-  }
+  const image = entry?.image
 
   return (
     <PageLayout sectionId="edits" navItems={editProjects} currentPath={`/edits/${slug}`}>
@@ -25,9 +22,9 @@ function EditsContent() {
               </div>
             </article>
           )}
-          {getImage() && (
+          {image && (
             <div className="edit-image" style={{ marginTop: '120px', marginBottom: '40px', marginLeft: '-200px', textAlign: 'left' }}>
-              <img src={getImage()} alt={slug} style={{ maxWidth: '80%', height: 'auto', display: 'block' }} />
+              <img src={image} alt={slug} style={{ maxWidth: '80%', height: 'auto', display: 'block' }} />
             </div>
           )}
         </div>

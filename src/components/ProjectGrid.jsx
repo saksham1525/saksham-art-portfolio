@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom'
 function ProjectGrid({ projects }) {
   return (
     <ul className="project-grid">
-      {projects.map((project, index) => (
-        <li key={index} className="project-item">
+      {projects.map((project) => (
+        <li key={project.link} className="project-item">
           <Link to={project.link} className="project-link">
             <div className="project-thumbnail">
               <img src={project.image} alt={project.title} />

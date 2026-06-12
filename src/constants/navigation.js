@@ -1,4 +1,3 @@
-// Centralized navigation configuration
 export const NAV_LINKS = [
   { path: '/film', label: 'Film' },
   { path: '/edits', label: 'Edits' },

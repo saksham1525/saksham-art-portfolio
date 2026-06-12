@@ -6,7 +6,7 @@ function HomeHeader() {
       <div className="container">
         <div className="header-content">
           <Link to="/" className="brand brand-img">
-            <img src="/images/image.jpg" alt="Logo" />
+            <img src="/images/logo.jpg" alt="Logo" />
           </Link>
           <nav className="main-nav">
             <Link to="/archive">archive</Link>

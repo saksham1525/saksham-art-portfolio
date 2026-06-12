@@ -6,8 +6,8 @@ function PoetryList() {
   return (
     <PageLayout sectionId="poetry">
       <div className="poetry-list-minimal">
-        {poetryList.map((poem, index) => (
-          <div key={index}>
+        {poetryList.map((poem) => (
+          <div key={poem.slug}>
             <Link to={`/poetry/${poem.slug}`}>{poem.title}</Link>
             <br />
           </div>

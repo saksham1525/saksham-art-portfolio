@@ -7,7 +7,7 @@ export const editEntries = {
       "",
       "It was always about a woman who is not cruel, but flawed; frightened, not vain. The story was always Julie's — the director understood that, the world did too, and now, finally, so do I."
     ],
-    image: '/images/worstperson-detail.jpg'
+    image: '/images/worst-person-detail.jpg'
   },
   'eternal-sunshine': {
     content: [
@@ -26,7 +26,7 @@ export const editEntries = {
       "The question of identity persists. Who do I relate to, where do I belong, and what do I choose when the crossroads appear and insists on an answer? Will I remain sane in a place that no longer feels mine?",
       "Some days I feel like the man stuck on a fence of a hostile border, unable to decide which side is home, or whether any side ever was!"
     ],
-    image: '/images/manto-detail.jpeg'
+    image: '/images/manto-detail.jpg'
   },
   'pulp-fiction': {
     content: [
@@ -44,7 +44,7 @@ export const editEntries = {
       "As time moves on and we peel past the lacquered façade of grand tragedy, what remains is not a single story but two mirrors facing each other. This edit grew from placing them side by side — the classical ache of Devdas and the fractured neon glow of Dev.D — letting their contrasts spark and collide.",
       "One is drenched in the slow-burn sorrow of a world that worships suffering; the other shatters that myth with raw, imperfect modernity. Together they ask: how many ways can a heart break, and how many versions of Dev does it take to understand that the ruin was never just love, but the way love was taught?"
     ],
-    images: ['/images/devdas-detail.jpg', '/images/devdas-detail2.webp']
+    image: '/images/devd-detail.jpg'
   },
   'dil-se': {
     content: [
@@ -54,7 +54,7 @@ export const editEntries = {
       "",
       "That is why, though they form the core of the narrative, in the edit they never share a single frame. Their distance is the only honest way to portray a bond shaped not by harmony, but by the quiet gravity of a landscape marked by loss, longing, and unspoken debts."
     ],
-    image: '/images/dilse-detail.jpeg'
+    image: '/images/dilse-detail.jpg'
   }
 }
 

@@ -1,5 +1,6 @@
 export const filmEntries = {
   'summer': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=rECHXAmsubw',
     content: [
       "A film about longing, desire, and the solitude that shadows them—",
       "where heartbreak isn't the wound itself, but the echo of wanting someone beyond ourselves.",
@@ -9,6 +10,7 @@ export const filmEntries = {
     image: '/images/summer-detail.png'
   },
   'aaja-22': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=vyYQDhoxLVI',
     content: [
       "A story born from a drunken night and shaped by the dry humour of quiet disappointment.",
       "It observes the small tragedies of rejection and the unlikely comedy woven through them,",
@@ -17,6 +19,7 @@ export const filmEntries = {
     image: '/images/aaja22-detail.png'
   },
   'aaja-23': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=M1zBOrTG1P8',
     content: [
       "A wilder, more chaotic twin to its predecessor, this film threw caution to the wind.",
       "Its spiralling over our sheer incompetence incompetence—became a kind of meta-revelation,",
@@ -25,6 +28,7 @@ export const filmEntries = {
     image: '/images/aaja23-detail.png'
   },
   'zeher': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=aY4prUqr3jY',
     content: [
       "A fifty-hour whirlwind, with the story mutating on the fly and the camera chasing whatever impulse arrived first.",
       "We kept trying to stitch together a narrative that had long since slipped out of our grasp,",
@@ -34,6 +38,7 @@ export const filmEntries = {
     image: '/images/zeher-detail.png'
   },
   'becharii': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=xwdVjkv4Nz4',
     content: [
       "Nothing said about this film could possibly do it justice, and that might be the fairest thing I can offer.",
       "I'd simply advise you to watch it—though I doubt you'll understand a single frame.",
@@ -42,15 +47,17 @@ export const filmEntries = {
     image: '/images/becharii-detail.png'
   },
   'the-wilted-rose': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=JHU2or1ZKSs',
     content: [
       "An exploration of the experience of a homosexual and the alienation that quietly shadows it—",
       "a gaze into doubt, insecurity, loneliness, and the prejudice that shapes a childhood far too early.",
       "Told through the eyes of an innocent child, it becomes our own small rendition of Pride Month,",
       "because love knows no boundaries, no permissions, no condition but itself."
     ],
-    image: '/images/thewiltedrose-detail.png'
+    image: '/images/the-wilted-rose-detail.png'
   },
   'tasveerein': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=Lz6oINqA4ZI',
     content: [
       "Why should I reveal what hides in the heart—a secret so fragile it trembles at the thought of being spoken?",
       "This film drifts through that fear: that if we finally confess the ache, the world might simply shrug and ask Is that all?",
@@ -60,6 +67,7 @@ export const filmEntries = {
     image: '/images/tasveerein-detail.png'
   },
   'mysuru-dussera': {
+    youtubeUrl: 'https://www.youtube.com/watch?v=liDyQcxWQrE',
     content: [
       "A special experimental film about the longing of the city of Mysuru.",
       "A surreally painted portrait of the memories of Mysuru or lack thereof came as a haunting reminder of the distance between the city and the heart.",
