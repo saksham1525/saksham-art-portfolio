@@ -22,7 +22,7 @@ function ContentEntry({ title, content, showTitle = true, image, imageAlt }) {
       </article>
       {image && (
         <div className="film-image" style={{ marginTop: '150px', marginBottom: '40px', marginLeft: '-50px', textAlign: 'left' }}>
-          <img src={image} alt={imageAlt} style={{ width: '70%', height: 'auto', display: 'block' }} />
+          <img src={image} alt={imageAlt} loading="lazy" style={{ width: '70%', height: 'auto', display: 'block' }} />
         </div>
       )}
     </div>

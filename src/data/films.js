@@ -7,7 +7,7 @@ export const filmEntries = {
       "Love circles back on itself, a quiet cycle of ache and ego,",
       "a serpent tasting its own tail, mistaking the pain for proof of feeling."
     ],
-    image: '/images/summer-detail.png'
+    image: '/images/summer-detail.webp'
   },
   'aaja-22': {
     youtubeUrl: 'https://www.youtube.com/watch?v=vyYQDhoxLVI',
@@ -16,7 +16,7 @@ export const filmEntries = {
       "It observes the small tragedies of rejection and the unlikely comedy woven through them,",
       "never claiming grandeur—only tracing the restless, absurd days of an amateur filmmaker adrift in an engineering college."
     ],
-    image: '/images/aaja22-detail.png'
+    image: '/images/aaja22-detail.webp'
   },
   'aaja-23': {
     youtubeUrl: 'https://www.youtube.com/watch?v=M1zBOrTG1P8',
@@ -25,7 +25,7 @@ export const filmEntries = {
       "Its spiralling over our sheer incompetence incompetence—became a kind of meta-revelation,",
       "as what unfolded on screen and what collapsed on set mirrored each other with uncanny symmetry"
     ],
-    image: '/images/aaja23-detail.png'
+    image: '/images/aaja23-detail.webp'
   },
   'zeher': {
     youtubeUrl: 'https://www.youtube.com/watch?v=aY4prUqr3jY',
@@ -35,7 +35,7 @@ export const filmEntries = {
       "a process that hovered somewhere between improvisational style and outright stupidity—",
       "yet somehow, in that chaos, the film found its own logic, its own accidental rhythm."
     ],
-    image: '/images/zeher-detail.png'
+    image: '/images/zeher-detail.webp'
   },
   'becharii': {
     youtubeUrl: 'https://www.youtube.com/watch?v=xwdVjkv4Nz4',
@@ -44,7 +44,7 @@ export const filmEntries = {
       "I'd simply advise you to watch it—though I doubt you'll understand a single frame.",
       "And if you do, call me at once, because I still have no idea what on earth we've done."
     ],
-    image: '/images/becharii-detail.png'
+    image: '/images/becharii-detail.webp'
   },
   'the-wilted-rose': {
     youtubeUrl: 'https://www.youtube.com/watch?v=JHU2or1ZKSs',
@@ -54,7 +54,7 @@ export const filmEntries = {
       "Told through the eyes of an innocent child, it becomes our own small rendition of Pride Month,",
       "because love knows no boundaries, no permissions, no condition but itself."
     ],
-    image: '/images/the-wilted-rose-detail.png'
+    image: '/images/the-wilted-rose-detail.webp'
   },
   'tasveerein': {
     youtubeUrl: 'https://www.youtube.com/watch?v=Lz6oINqA4ZI',
@@ -64,7 +64,7 @@ export const filmEntries = {
       "It is a portrait of unspoken longing, of emotions too small for grand tragedy",
       "What an experience!"
     ],
-    image: '/images/tasveerein-detail.png'
+    image: '/images/tasveerein-detail.webp'
   },
   'mysuru-dussera': {
     youtubeUrl: 'https://www.youtube.com/watch?v=liDyQcxWQrE',
@@ -74,7 +74,7 @@ export const filmEntries = {
       "My last film still unconcluded but means a lot to me!",
       "Rightfully haunting me as the city haunts the protagonist."
     ],
-    image: '/images/mysurudasara-detail.png'
+    image: '/images/mysurudasara-detail.webp'
   }
 }
 

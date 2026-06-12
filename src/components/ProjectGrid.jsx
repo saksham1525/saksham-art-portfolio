@@ -7,7 +7,7 @@ function ProjectGrid({ projects }) {
         <li key={project.link} className="project-item">
           <Link to={project.link} className="project-link">
             <div className="project-thumbnail">
-              <img src={project.image} alt={project.title} />
+              <img src={project.image} alt={project.title} loading="lazy" />
             </div>
             <div className="project-overlay">
               <div className="project-title">

@@ -14,7 +14,7 @@ function PageLayout({ sectionId, navItems, currentPath, children }) {
       <div id="push-footer"></div>
       <div id="full-frame-wrapper">
         <div id="full-frame">
-          <img src="/images/background.png" alt="" />
+          <img src="/images/background.webp" alt="" />
           <div className="full-frame-control"></div>
         </div>
       </div>

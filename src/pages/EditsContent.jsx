@@ -24,7 +24,7 @@ function EditsContent() {
           )}
           {image && (
             <div className="edit-image" style={{ marginTop: '120px', marginBottom: '40px', marginLeft: '-200px', textAlign: 'left' }}>
-              <img src={image} alt={slug} style={{ maxWidth: '80%', height: 'auto', display: 'block' }} />
+              <img src={image} alt={slug} loading="lazy" style={{ maxWidth: '80%', height: 'auto', display: 'block' }} />
             </div>
           )}
         </div>

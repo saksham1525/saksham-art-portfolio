@@ -21,7 +21,7 @@ function FilmContent() {
           {entry.image && (
             <div className="film-image" style={{ marginTop: '150px', marginBottom: '40px', marginLeft: '-200px', textAlign: 'left' }}>
               <a href={entry.youtubeUrl} target="_blank" rel="noopener noreferrer">
-                <img src={entry.image} alt={slug} style={{ maxWidth: '70%', height: 'auto', display: 'block', cursor: 'pointer' }} />
+                <img src={entry.image} alt={slug} loading="lazy" style={{ maxWidth: '70%', height: 'auto', display: 'block', cursor: 'pointer' }} />
               </a>
             </div>
           )}

@@ -35,7 +35,7 @@ export const editEntries = {
       "I wanted to lift the mood, to cut on the beat for the sake of swaying, not sulking. My most stylistic edit for the most stylistic film to ever exist. And all I want to ask is: You know what they call a quarter pounder with cheese in Paris?",
       "Yeah! Royale with cheese, baby."
     ],
-    image: '/images/pulp-fiction-detail.png'
+    image: '/images/pulp-fiction-detail.webp'
   },
   'devdas': {
     content: [
