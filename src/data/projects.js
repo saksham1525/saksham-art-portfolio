@@ -26,7 +26,7 @@ export const filmProjects = [
   { title: 'becharii', path: '/film/becharii' },
   { title: 'the wilted rose', path: '/film/the-wilted-rose' },
   { title: 'tasveerein', path: '/film/tasveerein' },
-  { title: 'mysuru dussera', path: '/film/mysuru-dussera' }
+  { title: 'mysuru dasara', path: '/film/mysuru-dussera' }
 ]
 
 export const editProjects = [

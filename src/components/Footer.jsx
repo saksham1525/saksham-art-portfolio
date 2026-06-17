@@ -20,10 +20,12 @@ function Footer() {
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/saksham-garg-77318021a/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-              <span>LinkedIn</span>
-              <svg className="social-icon linkedin-icon" viewBox="0 0 32 32">
-                <path d="M8.268 28h-5.805V11.516h5.805V28zM5.362 9.028C3.506 9.028 2 7.499 2 5.643 2 3.788 3.506 2.259 5.362 2.259c1.856 0 3.362 1.529 3.362 3.384 0 1.856-1.506 3.385-3.362 3.385zM29.994 28h-5.792v-8.014c0-2.165-.044-4.948-3.018-4.948-3.018 0-3.481 2.359-3.481 4.794V28h-5.799V11.516h5.567v2.536h.081c.775-1.469 2.668-3.018 5.492-3.018 5.875 0 6.955 3.867 6.955 8.892V28h-.005z"/>
+            <a href="https://letterboxd.com/saksham_1525/" target="_blank" rel="noopener noreferrer" title="Letterboxd">
+              <span>Letterboxd</span>
+              <svg className="social-icon" viewBox="0 0 24 24">
+                <circle cx="6" cy="12" r="4" fillOpacity="0.9"/>
+                <circle cx="12" cy="12" r="4" fillOpacity="0.9"/>
+                <circle cx="18" cy="12" r="4" fillOpacity="0.9"/>
               </svg>
             </a>
           </li>
