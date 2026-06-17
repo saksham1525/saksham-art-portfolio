@@ -1,0 +1,3711 @@
+{
+  "total_films": 546,
+  "films": [
+    {
+      "name": "Wolfs",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/x6zG",
+      "date_watched": "2026-04-04"
+    },
+    {
+      "name": "12th Fail",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/I1sM",
+      "date_watched": "2026-03-30"
+    },
+    {
+      "name": "Sister Midnight",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/MBDY",
+      "date_watched": "2026-03-29"
+    },
+    {
+      "name": "Happy Gilmore",
+      "year": 1996,
+      "letterboxd_uri": "https://boxd.it/1Yey",
+      "date_watched": "2026-03-29"
+    },
+    {
+      "name": "The Family Plan 2",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/QvCe",
+      "date_watched": "2026-03-29"
+    },
+    {
+      "name": "Smile",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/xjfE",
+      "date_watched": "2026-03-15"
+    },
+    {
+      "name": "Penguins of Madagascar",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/89tc",
+      "date_watched": "2026-03-14"
+    },
+    {
+      "name": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/mP6C",
+      "date_watched": "2026-03-14"
+    },
+    {
+      "name": "Kis Kisko Pyaar Karoon 2",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/PR1M",
+      "date_watched": "2026-02-25"
+    },
+    {
+      "name": "Tu Yaa Main",
+      "year": 2026,
+      "letterboxd_uri": "https://boxd.it/Txja",
+      "date_watched": "2026-02-25"
+    },
+    {
+      "name": "Khel Khel Mein",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/Lb4Q",
+      "date_watched": "2026-02-25"
+    },
+    {
+      "name": "The White Tiger",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/nhg6",
+      "date_watched": "2026-02-23"
+    },
+    {
+      "name": "De De Pyaar De 2",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/K6jO",
+      "date_watched": "2026-02-20"
+    },
+    {
+      "name": "Jolly LLB 3",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/Cpe8",
+      "date_watched": "2026-02-20"
+    },
+    {
+      "name": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1W2K",
+      "date_watched": "2026-01-23"
+    },
+    {
+      "name": "The Empire Strikes Back",
+      "year": 1980,
+      "letterboxd_uri": "https://boxd.it/27Vw",
+      "date_watched": "2026-01-07"
+    },
+    {
+      "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/5a9m",
+      "date_watched": "2026-01-06"
+    },
+    {
+      "name": "There Will Be Blood",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/20Z2",
+      "date_watched": "2026-01-06",
+      "liked": true,
+      "lists": [
+        "must watch they say"
+      ]
+    },
+    {
+      "name": "Star Wars: Episode II – Attack of the Clones",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/27V2",
+      "date_watched": "2026-01-06"
+    },
+    {
+      "name": "Star Wars: Episode III – Revenge of the Sith",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/27US",
+      "date_watched": "2026-01-06"
+    },
+    {
+      "name": "Cars 3",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/7IPq",
+      "date_watched": "2026-01-05"
+    },
+    {
+      "name": "Pirates of the Caribbean: On Stranger Tides",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/27Z4",
+      "date_watched": "2026-01-05"
+    },
+    {
+      "name": "Bride Wars",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1W3I",
+      "date_watched": "2026-01-05"
+    },
+    {
+      "name": "Shrek",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/29zi",
+      "date_watched": "2026-01-05",
+      "lists": [
+        "franchises"
+      ]
+    },
+    {
+      "name": "Star Wars: Episode I – The Phantom Menace",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/27Vc",
+      "date_watched": "2026-01-05"
+    },
+    {
+      "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/70G",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/2bfk",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "Cars",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/29ho",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "Cars 2",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/H4Y",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/2aGu",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "The Revenant",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/8H5e",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "The 40 Year Old Virgin",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/21hK",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "The Hangover",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1GjK",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "The Hangover Part II",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/PZI",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "The Hangover Part III",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/3GNY",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "American Pie Presents: Band Camp",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/20qQ",
+      "date_watched": "2026-01-04"
+    },
+    {
+      "name": "Avatar: The Way of Water",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/2E2E",
+      "date_watched": "2026-01-03"
+    },
+    {
+      "name": "Zootopia 2",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/F0vO",
+      "date_watched": "2026-01-03"
+    },
+    {
+      "name": "The Grand Budapest Hotel",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/3ZqO",
+      "date_watched": "2026-01-02"
+    },
+    {
+      "name": "Jojo Rabbit",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/iEBG",
+      "date_watched": "2026-01-02"
+    },
+    {
+      "name": "Avatar",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1Efm",
+      "date_watched": "2026-01-02"
+    },
+    {
+      "name": "Doodlebug",
+      "year": 1997,
+      "letterboxd_uri": "https://boxd.it/TZC",
+      "date_watched": "2026-01-02"
+    },
+    {
+      "name": "Into the Wild",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/22m2",
+      "date_watched": "2026-01-02"
+    },
+    {
+      "name": "The Virgin Suicides",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/28JG",
+      "date_watched": "2026-01-01"
+    },
+    {
+      "name": "3 Idiots",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1Dsa",
+      "date_watched": "2026-01-01"
+    },
+    {
+      "name": "Mirror",
+      "year": 1975,
+      "letterboxd_uri": "https://boxd.it/28Q8",
+      "date_watched": "2026-01-01"
+    },
+    {
+      "name": "Ratatouille",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/27ww",
+      "date_watched": "2026-01-01"
+    },
+    {
+      "name": "Aladin",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1uXy",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Hasee Toh Phasee",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7n3g",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ae Dil Hai Mushkil",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/dKWg",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Khoobsurat",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/97Dm",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Jab Harry Met Sejal",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/fInW",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Jab Tak Hai Jaan",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/4iiu",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ok Jaanu",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/eBak",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "2 States",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7GOK",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Daawat-e-Ishq",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/97CS",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ishaqzaade",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3wHm",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Befikre",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/e0w4",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Almost Pyaar with DJ Mohabbat",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/DJ5i",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Love Aaj Kal",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/lJTG",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Yaariyan",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7nNI",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Shuddh Desi Romance",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6g1U",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Akira",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/ee60",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Khandaani Shafakhana",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/mSsm",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Meri Pyaari Bindu",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/gg8c",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Tere Bin Laden",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/Xbc",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Kill Dil",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/9oIo",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Sanam Teri Kasam",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/dhbU",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Vicky Donor",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3vYm",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Son of Sardaar",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/4vM8",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Bol Bachchan",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3MzI",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Action Jackson",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/9S2s",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "R... Rajkumar",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/74TW",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Pagalpanti",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/o8CY",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Total Siyapaa",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7wMa",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Players",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2VDi",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Shivaay",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/cRXe",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Krrish 3",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/68tm",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Baar Baar Dekho",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/dIka",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Rangoon",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/dIcK",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Humpty Sharma Ki Dulhania",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/8r2I",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ek Villain",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/8r3G",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Brothers",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/aNQu",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Rowdy Rathore",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3v3A",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Humshakals",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/8ib2",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Khatta Meetha",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/RDY",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Boss",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6JlY",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Garam Masala",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/1EM6",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Prem Ratan Dhan Payo",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/coCc",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Badmaash Company",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/17qG",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Billu",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1Kj0",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Kismat Konnection",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1MbM",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Himmatwala",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/5uHI",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Joker",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/4e3q",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Raajneeti",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/177u",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Gunday",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7l8I",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ladies VS. Ricky Bahl",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/2TSA",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Besharam",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6uQW",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Rocket Singh: Salesman of the Year",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1t7m",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Gabbar Is Back",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/bd3o",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "We Are Family",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/QEG",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Phantom",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/bVQk",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ajab Prem Ki Ghazab Kahani",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1wUm",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Cocktail",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3Vme",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Dil Bechara",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/nYrQ",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Jawaani Jaaneman",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/mq7g",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Vaah! Life Ho Toh Aisi!",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/2WW6",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Talaash",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/33ae",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Krazzy 4",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1CRe",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Sunday",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1CHy",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Chillar Party",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/2uQa",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Gattu",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/3Jnu",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Wazir",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/8mPA",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Ferrari Ki Sawaari",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3Vd2",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Action Replayy",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/Fti",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Notebook",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/lpVi",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "The Hero: Love Story of a Spy",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/8bam",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Indian",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/2TCs",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "classics for me"
+      ]
+    },
+    {
+      "name": "Dhadkan",
+      "year": 2000,
+      "letterboxd_uri": "https://boxd.it/1cRM",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "classics for me"
+      ]
+    },
+    {
+      "name": "Andhadhun",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/jtfc",
+      "date_watched": "2026-01-01",
+      "lists": [
+        "classics for me"
+      ]
+    },
+    {
+      "name": "Shutter Island",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1U82",
+      "date_watched": "2026-01-01"
+    },
+    {
+      "name": "Inglourious Basterds",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1JzG",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Boyhood",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/3178",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/70w",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/2au4",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "The Social Network",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/17ue",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Taxi Driver",
+      "year": 1976,
+      "letterboxd_uri": "https://boxd.it/2b8y",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Casino",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/2ads",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Gangs of New York",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/25FG",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "The Irishman",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/dYOq",
+      "date_watched": "2025-12-31"
+    },
+    {
+      "name": "Once Upon a Time in Mumbai Dobaara!",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6eOU",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones",
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Once Upon a Time in Mumbaai",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/VDo",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Shootout at Lokhandwala",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/1CYO",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Shootout at Wadala",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/5HZK",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "D-Day",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6cgQ",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "The Attacks Of 26/11",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/5ioa",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "A Wednesday!",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1EFE",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Tango Charlie",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/9B8y",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "classics for me",
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Scoop",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/GVcc",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Shahid",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/4c5Y",
+      "date_watched": "2025-12-30",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Boogie Nights",
+      "year": 1997,
+      "letterboxd_uri": "https://boxd.it/23um",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "Don Jon",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4sdk",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "American Beauty",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/71Y",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "The Room",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1ICY",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "The Nice Guys",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/94Hg",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "Closer",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/270K",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "Inherent Vice",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/5hla",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "Licorice Pizza",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/qTKY",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "The Five-Year Engagement",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2oZU",
+      "date_watched": "2025-12-30"
+    },
+    {
+      "name": "He's Just Not That Into You",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1WSG",
+      "date_watched": "2025-12-28"
+    },
+    {
+      "name": "Aloha",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/6BQk",
+      "date_watched": "2025-12-28"
+    },
+    {
+      "name": "I Now Pronounce You Chuck & Larry",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/25cE",
+      "date_watched": "2025-12-28"
+    },
+    {
+      "name": "Adaptation.",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/26mA",
+      "date_watched": "2025-12-28"
+    },
+    {
+      "name": "Dhurandhar",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/NhCI",
+      "date_watched": "2025-12-27",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "The Bad Guys 2",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/IAI6",
+      "date_watched": "2025-12-27"
+    },
+    {
+      "name": "The Holiday",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/28ye",
+      "date_watched": "2025-12-27"
+    },
+    {
+      "name": "Time Trap",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/ggMw",
+      "date_watched": "2025-12-14",
+      "lists": [
+        "the unacclaimed ones i love"
+      ]
+    },
+    {
+      "name": "Bugonia",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/qeWY",
+      "date_watched": "2025-12-02"
+    },
+    {
+      "name": "The Roses",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/MjnI",
+      "date_watched": "2025-11-22"
+    },
+    {
+      "name": "Mulholland Drive",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/297o",
+      "date_watched": "2025-11-19"
+    },
+    {
+      "name": "2001: A Space Odyssey",
+      "year": 1968,
+      "letterboxd_uri": "https://boxd.it/2bf0",
+      "date_watched": "2025-11-18"
+    },
+    {
+      "name": "Lokah Chapter 1: Chandra",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/NelO",
+      "date_watched": "2025-11-08"
+    },
+    {
+      "name": "Star Wars",
+      "year": 1977,
+      "letterboxd_uri": "https://boxd.it/72s",
+      "date_watched": "2025-10-19",
+      "lists": [
+        "franchises"
+      ]
+    },
+    {
+      "name": "One Battle After Another",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/DUHM",
+      "date_watched": "2025-10-09"
+    },
+    {
+      "name": "Dil Se..",
+      "year": 1998,
+      "letterboxd_uri": "https://boxd.it/1CgC",
+      "date_watched": "2025-10-09"
+    },
+    {
+      "name": "Satya",
+      "year": 1998,
+      "letterboxd_uri": "https://boxd.it/1BNq",
+      "date_watched": "2025-09-29",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Making \"Sacred Games\"",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/F3Zs",
+      "date_watched": "2025-09-29",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Batla House",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/k6HE",
+      "date_watched": "2025-09-29",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Madras Cafe",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6qgU",
+      "date_watched": "2025-09-29",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Vaastav",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/4E8G",
+      "date_watched": "2025-09-29",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Black Friday",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/1oUy",
+      "date_watched": "2025-09-21",
+      "lists": [
+        "communal ones"
+      ]
+    },
+    {
+      "name": "Gulaal",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1BAw",
+      "date_watched": "2025-09-21"
+    },
+    {
+      "name": "Funny People",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1CRy",
+      "date_watched": "2025-08-31"
+    },
+    {
+      "name": "Materialists",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/GZlW",
+      "date_watched": "2025-08-29"
+    },
+    {
+      "name": "Lost in Translation",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/2b0E",
+      "date_watched": "2025-08-28"
+    },
+    {
+      "name": "Thunderbolts*",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/BfbQ",
+      "date_watched": "2025-08-28"
+    },
+    {
+      "name": "Elemental",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/ASiE",
+      "date_watched": "2025-08-08"
+    },
+    {
+      "name": "Inside Out",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/4KHC",
+      "date_watched": "2025-08-07"
+    },
+    {
+      "name": "Inside Out 2",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/CFrC",
+      "date_watched": "2025-08-05"
+    },
+    {
+      "name": "Promising Young Woman",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/loRE",
+      "date_watched": "2025-07-31",
+      "rating": 4.0
+    },
+    {
+      "name": "The Bad Guys",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/nkg4",
+      "date_watched": "2025-07-30"
+    },
+    {
+      "name": "Black Bag",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/KRbM",
+      "date_watched": "2025-07-29"
+    },
+    {
+      "name": "Metro... In Dino",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/Ej2k",
+      "date_watched": "2025-07-23"
+    },
+    {
+      "name": "Superman",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/E9IU",
+      "date_watched": "2025-07-23"
+    },
+    {
+      "name": "F1",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/yjVM",
+      "date_watched": "2025-07-23"
+    },
+    {
+      "name": "Kung Fu Panda 2",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/G36",
+      "date_watched": "2025-06-03"
+    },
+    {
+      "name": "Ice Age",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/2apS",
+      "date_watched": "2025-06-03"
+    },
+    {
+      "name": "Ice Age: The Meltdown",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/2wRk",
+      "date_watched": "2025-06-03"
+    },
+    {
+      "name": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/20iC",
+      "date_watched": "2025-06-03"
+    },
+    {
+      "name": "Ice Age: Continental Drift",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/lQ2",
+      "date_watched": "2025-06-03"
+    },
+    {
+      "name": "Ice Age: Collision Course",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/8upq",
+      "date_watched": "2025-06-03"
+    },
+    {
+      "name": "The Secret Life of Pets 2",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/ewPM",
+      "date_watched": "2025-05-23"
+    },
+    {
+      "name": "Pitch Perfect",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3OsE",
+      "date_watched": "2025-05-23"
+    },
+    {
+      "name": "Kung Fu Panda 4",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/CepE",
+      "date_watched": "2025-05-23"
+    },
+    {
+      "name": "Pitch Perfect 2",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/7tNa",
+      "date_watched": "2025-05-23"
+    },
+    {
+      "name": "The Secret Life of Pets",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/aJ5E",
+      "date_watched": "2025-05-23"
+    },
+    {
+      "name": "Titli",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7WnK",
+      "date_watched": "2025-05-20"
+    },
+    {
+      "name": "Mere Husband Ki Biwi",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/JpH4",
+      "date_watched": "2025-04-26"
+    },
+    {
+      "name": "The Devil Wears Prada",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/2awE",
+      "date_watched": "2025-04-17"
+    },
+    {
+      "name": "10 Things I Hate About You",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/23AO",
+      "date_watched": "2025-04-17"
+    },
+    {
+      "name": "Bedtime Stories",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1WPM",
+      "date_watched": "2025-04-15"
+    },
+    {
+      "name": "Due Date",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/YFs",
+      "date_watched": "2025-04-11"
+    },
+    {
+      "name": "Oye Lucky! Lucky Oye!",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1L62",
+      "date_watched": "2025-04-11",
+      "rating": 4.0
+    },
+    {
+      "name": "Deadpool & Wolverine",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/jq8s",
+      "date_watched": "2025-04-08"
+    },
+    {
+      "name": "Punch-Drunk Love",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/20E4",
+      "date_watched": "2025-04-07",
+      "rating": 5.0,
+      "lists": [
+        "favs"
+      ]
+    },
+    {
+      "name": "American Gangster",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/23wi",
+      "date_watched": "2025-04-07",
+      "rating": 4.0
+    },
+    {
+      "name": "Legally Blonde",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/1ZNa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "War Dogs",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/9SlO",
+      "date_watched": "2025-04-06",
+      "rating": 4.0
+    },
+    {
+      "name": "The Breakfast Club",
+      "year": 1985,
+      "letterboxd_uri": "https://boxd.it/27q4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "27 Dresses",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/21x4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Game Night",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/fRtu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Notting Hill",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/2aeK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "(500) Days of Summer",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1EmM",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Bridget Jones's Diary",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/29WQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "About Time",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/43bI",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Notebook",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/1UNE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "How to Lose a Guy in 10 Days",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1XwG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Crazy, Stupid, Love.",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/D9A",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Just Go with It",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/Doq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "50 First Dates",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/285c",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "No Strings Attached",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/YUs",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Friends with Benefits",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/DoK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Ugly Truth",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1CFi",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "That Awkward Moment",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/6Ftu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "When Harry Met Sally...",
+      "year": 1989,
+      "letterboxd_uri": "https://boxd.it/29W2",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "She's Out of My League",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1eww",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Red Sparrow",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/e7Pi",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Salt",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1rtK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Atomic Blonde",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/blDk",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Courier",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/iX7A",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Bourne Ultimatum",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/26Eu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Bourne Supremacy",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/26EE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible",
+      "year": 1996,
+      "letterboxd_uri": "https://boxd.it/29d2",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Night Manager",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/dsfS",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Zero Dark Thirty",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3n1w",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/3r58",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Jason Bourne",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/ayYy",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/2Pa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Nocturnal Animals",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/bkFu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Zodiac",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/27MO",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Se7en",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/29zs",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Memento",
+      "year": 2000,
+      "letterboxd_uri": "https://boxd.it/2bcK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Batman",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/eDGs",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Oldboy",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/29R2",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Killers of the Flower Moon",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/gHp0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Nightcrawler",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/780m",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Knives Out",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/jWEA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Lost Highway",
+      "year": 1997,
+      "letterboxd_uri": "https://boxd.it/29Wc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Dune",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/fA7G",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Man of Steel",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/FRk",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Elysium",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/2cBm",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Lobster",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/7tnw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Her",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4O24",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Cha Cha Real Smooth",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/uF8E",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Persuasion",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/uVFY",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Peanut Butter Falcon",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/gzu2",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Spectacular Now",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4VSG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "After",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/jBb8",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Fault in Our Stars",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/6BQa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Intern",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/7AOE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "A Walk to Remember",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/1WLq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "To All the Boys I've Loved Before",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/gHec",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Worst Person in the World",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/oyws",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "La La Land",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/a5fa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Burning",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/hHUa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Perks of Being a Wallflower",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2ZA8",
+      "date_watched": "2025-04-06",
+      "review": "“(500) Days of Summer,” “Eternal Sunshine,” and “The Perks of Being a Wallflower” due to some intangible similarities, form a personal trilogy for me. They aren’t explicitly connected. My nonchalance towards all of them now, though, feels like a measure of how much I’ve grown from my teenage self."
+    },
+    {
+      "name": "Fallen Angels",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/1UkW",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Fabelmans",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/ugoM",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Queen's Gambit",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/s1Ym",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Django Unchained",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2cCk",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Reservoir Dogs",
+      "year": 1992,
+      "letterboxd_uri": "https://boxd.it/2agc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Reservoir Dogs",
+      "year": 1991,
+      "letterboxd_uri": "https://boxd.it/fL8A",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Hunger Games",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2uds",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/3sAw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Hunger Games: Mockingjay – Part 1",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/4hka",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Hunger Games: Mockingjay – Part 2",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/4hk0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Divergent",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/4VT0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Avengers: Infinity War",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/9vEe",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Chungking Express",
+      "year": 1994,
+      "letterboxd_uri": "https://boxd.it/1UDa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "In the Mood for Love",
+      "year": 2000,
+      "letterboxd_uri": "https://boxd.it/29tE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Hand",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/vWp0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Dallas Buyers Club",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4O8G",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Silver Linings Playbook",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2TTo",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Banshees of Inisherin",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/p7XS",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Palm Springs",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/lCXQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Favourite",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/d2hI",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/dZ5G",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Nimic",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/n10Q",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Dogtooth",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/158K",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Synecdoche, New York",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/23zw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Jackals & Fireflies",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/12EVI",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "I'm Thinking of Ending Things",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/i4IQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Back to the Future",
+      "year": 1985,
+      "letterboxd_uri": "https://boxd.it/2b8e",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "12 Angry Men",
+      "year": 1957,
+      "letterboxd_uri": "https://boxd.it/2auI",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "year": 1994,
+      "letterboxd_uri": "https://boxd.it/2aHi",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Heat",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/2bg8",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Titanic",
+      "year": 1997,
+      "letterboxd_uri": "https://boxd.it/2a2k",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Godfather Part II",
+      "year": 1974,
+      "letterboxd_uri": "https://boxd.it/2aNq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Kung Fu Panda",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1Yws",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Matrix",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/2a1m",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mean Girls",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/1VNg",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Avengers",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/1xFW",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mean Girls 2",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/Bje",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The DUFF",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/8eP8",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Easy A",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/17DK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Girl Next Door",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/1VSq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Pie",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/27qy",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Edge of Seventeen",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/d5nu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Bad Teacher",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/yXA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Pie 2",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/26kO",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Wedding",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/20r0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Reunion",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2qH4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The To Do List",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4dAo",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Gone Girl",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/6hQu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Game",
+      "year": 1997,
+      "letterboxd_uri": "https://boxd.it/26vC",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Killer",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/u6WE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Pie Presents: The Naked Mile",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/20qG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Pie Presents: The Book of Love",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1uwC",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Pie Presents: Beta House",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/20qm",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Neighbors",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/5Txe",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ted",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2pgc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Neighbors 2: Sorority Rising",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/aA80",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ted 2",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/6oCY",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Kissing Booth",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/geR0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Leap Year",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1wdC",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Bridget Jones's Baby",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/3jQU",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Bridget Jones: The Edge of Reason",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/1XMa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "She's the Man",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/1Y7W",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Eat Pray Love",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/16Cc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Crazy Rich Asians",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/gfnK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Music and Lyrics",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/1Usw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ocean's Eight",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/eaai",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Kissing Booth 2",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/lrky",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mr. & Mrs. Smith",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/29CG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Captain Marvel",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/9vSA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Charlie's Angels",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/gogo",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Rush Hour 2",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/23ga",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transporter 2",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/1YWq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/dnDA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "What's Your Number?",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/6P4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ocean's Eleven",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/2aZm",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ocean's Twelve",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/2aZ2",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Italian Job",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1Y86",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ocean's Thirteen",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/2aEy",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Red Notice",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/ixtq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Kaleidoscope",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/ErYQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ant-Man",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/3vmW",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Entrapment",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/282i",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Now You See Me 2",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/99fw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Hustle",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/5dz8",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Fast Five",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/BgO",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Fast and the Furious",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/1XMu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/1Yeo",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "2 Fast 2 Furious",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/2a4g",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Furious 7",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/5cVs",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Fast & Furious",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1Pnm",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Fast & Furious 6",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/2UG6",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Fate of the Furious",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/bbCw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "F9",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/dqsU",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "6 Underground",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/irU6",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible – Dead Reckoning",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/l7zS",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible – Fallout",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/bSVc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transporter 3",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1QhE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Bad Boys",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/1XVG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible II",
+      "year": 2000,
+      "letterboxd_uri": "https://boxd.it/29cS",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Extraction",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/jUjA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible – Rogue Nation",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/5rI4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Town",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1zyS",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "G.I. Joe: The Rise of Cobra",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1Ndu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible – Ghost Protocol",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/psI",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Mission: Impossible III",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/29cI",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Live Free or Die Hard",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/28zQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Die Hard With a Vengeance",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/28zG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "White House Down",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/3TOg",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Iron Man 2",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1WZM",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Tenet",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/leq4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Skyfall",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/17Fc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Dark Knight Rises",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/H3m",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Jack Reacher",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/2BUo",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Dark Knight",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/2b0k",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Prestige",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/293w",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Batman Begins",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/2aIg",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Insomnia",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/2aB0",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Following",
+      "year": 1998,
+      "letterboxd_uri": "https://boxd.it/1Tj4",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Tarantella",
+      "year": 1989,
+      "letterboxd_uri": "https://boxd.it/uhUa",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Matrix Reloaded",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/2a1c",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transformers: Dark of the Moon",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/16aC",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Matrix Revolutions",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/2a12",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Avengers: Age of Ultron",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/3qi6",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Batman v Superman: Dawn of Justice",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/6fBW",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/gaTc",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Loki",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/sbHg",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Captain America: Civil War",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/89Ja",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Jack Reacher: Never Go Back",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/buAY",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Wrath of Man",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/nEia",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Transporter",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/24Nu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Mechanic",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/1rtg",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Bullet Train",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/qW26",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transformers",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/280c",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Suicide Squad",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/9row",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Hitman's Wife's Bodyguard",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/iZdq",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Jolt",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/mQk6",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Wonder Woman 1984",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/gBtA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transformers: Revenge of the Fallen",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/20gG",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transformers: Age of Extinction",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/3d1m",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Transformers: The Last Knight",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/b8xo",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "A Simple Favor",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/hq92",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Instant Family",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/hHpQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Big Sick",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/eHvy",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Love & Other Drugs",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/UIi",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Snow White and the Huntsman",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/k1M",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Jennifer's Body",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1Efw",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Fool's Gold",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1ZXE",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Hubie Halloween",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/mQwm",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Gentlemen",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/iYBQ",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Seven Psychopaths",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/34PW",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Sherlock Holmes",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1W2A",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/k3S",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Departed",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/28MA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "GoodFellas",
+      "year": 1990,
+      "letterboxd_uri": "https://boxd.it/29FA",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "In Bruges",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/20n8",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "American Made",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/bb66",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Judge",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/6aiU",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "The Change-Up",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/FRu",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Dirty Dancing",
+      "year": 1987,
+      "letterboxd_uri": "https://boxd.it/2baY",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Monte Carlo",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/hqk",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Erin Brockovich",
+      "year": 2000,
+      "letterboxd_uri": "https://boxd.it/2al2",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Breathless",
+      "year": 1960,
+      "letterboxd_uri": "https://boxd.it/2aIK",
+      "date_watched": "2025-04-06"
+    },
+    {
+      "name": "Ricky Stanicky",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/CFjo",
+      "date_watched": "2025-04-04"
+    },
+    {
+      "name": "Interstellar",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/4VZ8",
+      "date_watched": "2025-04-04"
+    },
+    {
+      "name": "Horrible Bosses",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/Ba2",
+      "date_watched": "2025-04-04"
+    },
+    {
+      "name": "Horrible Bosses 2",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/6HWy",
+      "date_watched": "2025-04-04"
+    },
+    {
+      "name": "This Is 40",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/39WI",
+      "date_watched": "2025-04-02"
+    },
+    {
+      "name": "Knocked Up",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/23yS",
+      "date_watched": "2025-04-02"
+    },
+    {
+      "name": "Alien: Romulus",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/zGqO",
+      "date_watched": "2025-03-24",
+      "rating": 4.0
+    },
+    {
+      "name": "Alien: Covenant",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/49UY",
+      "date_watched": "2025-03-24"
+    },
+    {
+      "name": "Mickey 17",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/q1Dk",
+      "date_watched": "2025-03-24"
+    },
+    {
+      "name": "The Break-Up",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/1XRk",
+      "date_watched": "2025-03-22"
+    },
+    {
+      "name": "Training Day",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/27A4",
+      "date_watched": "2025-03-22",
+      "rating": 5.0
+    },
+    {
+      "name": "21 Jump Street",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/J0",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "22 Jump Street",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/5Fvy",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Blue Streak",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/1UT8",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "National Security",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1UGS",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Miami Vice",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/2bbW",
+      "date_watched": "2025-03-21",
+      "rating": 5.0
+    },
+    {
+      "name": "Anora",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/Egcw",
+      "date_watched": "2025-03-21",
+      "rating": 4.0
+    },
+    {
+      "name": "Bad Boys II",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1ZuW",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Bad Boys for Life",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/15pc",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/l3Ki",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "The Other Guys",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1rtq",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Trainwreck",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/8bdA",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "The Proposal",
+      "year": 2009,
+      "letterboxd_uri": "https://boxd.it/1HiS",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Miss Congeniality",
+      "year": 2000,
+      "letterboxd_uri": "https://boxd.it/28GM",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Two Weeks Notice",
+      "year": 2002,
+      "letterboxd_uri": "https://boxd.it/26wK",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Forgetting Sarah Marshall",
+      "year": 2008,
+      "letterboxd_uri": "https://boxd.it/1XEq",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Black Warrant",
+      "year": 2025,
+      "letterboxd_uri": "https://boxd.it/SvrE",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Zootopia",
+      "year": 2016,
+      "letterboxd_uri": "https://boxd.it/84xS",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Die Hard",
+      "year": 1988,
+      "letterboxd_uri": "https://boxd.it/2a7u",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Die Hard 2",
+      "year": 1990,
+      "letterboxd_uri": "https://boxd.it/28zw",
+      "date_watched": "2025-03-21"
+    },
+    {
+      "name": "Mad Max: Fury Road",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/2DjO",
+      "date_watched": "2025-02-05",
+      "rating": 3.5
+    },
+    {
+      "name": "Kinds of Kindness",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/CWPw",
+      "date_watched": "2025-02-05",
+      "rating": 4.0
+    },
+    {
+      "name": "Paatal Lok",
+      "year": 2020,
+      "letterboxd_uri": "https://boxd.it/A8vM",
+      "date_watched": "2025-02-05",
+      "rating": 4.0
+    },
+    {
+      "name": "The Substance",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/zanS",
+      "date_watched": "2025-02-04",
+      "rating": 3.5
+    },
+    {
+      "name": "Thackeray",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/kWRm",
+      "date_watched": "2024-06-16",
+      "rating": 4.0
+    },
+    {
+      "name": "Hit Man",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/ANB2",
+      "date_watched": "2024-06-16",
+      "rating": 3.0
+    },
+    {
+      "name": "Lady Bird",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/dGNE",
+      "date_watched": "2024-06-07",
+      "rating": 3.5
+    },
+    {
+      "name": "Marriage Story",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/hJAw",
+      "date_watched": "2024-06-07",
+      "rating": 4.0
+    },
+    {
+      "name": "Challengers",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/zld0",
+      "date_watched": "2024-06-07",
+      "rating": 4.0
+    },
+    {
+      "name": "Lost Ladies",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/I0mS",
+      "date_watched": "2024-05-06",
+      "rating": 4.0
+    },
+    {
+      "name": "Amar Singh Chamkila",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/F6SY",
+      "date_watched": "2024-05-06",
+      "rating": 3.5
+    },
+    {
+      "name": "Dogs Don't Wear Pants",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/j42i",
+      "date_watched": "2024-04-25",
+      "rating": 4.0
+    },
+    {
+      "name": "All Quiet on the Western Front",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/H08",
+      "date_watched": "2024-04-18",
+      "rating": 4.5
+    },
+    {
+      "name": "Song to Song",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/aR5C",
+      "date_watched": "2024-03-26",
+      "rating": 4.0,
+      "review": "familiar"
+    },
+    {
+      "name": "All India Rank",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/EgQm",
+      "date_watched": "2024-03-20",
+      "rating": 3.5
+    },
+    {
+      "name": "Baraka",
+      "year": 1992,
+      "letterboxd_uri": "https://boxd.it/1OWA",
+      "date_watched": "2024-03-09",
+      "rating": 4.5,
+      "review": "Roger Ebert exclaimed, \"<i>If man sends another Voyager to the distant stars and it can carry only one film on board, that film might be Baraka.</i>\"\nThe remark astutely represents the film."
+    },
+    {
+      "name": "Columbus",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/eCuA",
+      "date_watched": "2024-03-09",
+      "rating": 4.5,
+      "review": "A film that starts slow & unprospectful completely surprises midway and makes you concede that you're in the presence of a rare filmic phenomenon.",
+      "liked": true,
+      "lists": [
+        "favs"
+      ]
+    },
+    {
+      "name": "Before Sunset",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/2bcg",
+      "date_watched": "2024-03-08",
+      "rating": 4.0
+    },
+    {
+      "name": "Before Midnight",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4ive",
+      "date_watched": "2024-03-08",
+      "rating": 4.0,
+      "review": "The slowest and dullest of the trilogy, which inadvertently breaks a few of the unstated rules of the narrative structure established in the first two films still is the most enduring and memorable of the three. It goes maybe to the fierce, unbridled honesty of the film, whereas the other two could be chalked up to heartwarming fiction. \nLinklater ends the film on the most beautiful of conundrums, giving solace to optimists while making sure that realists understand that nothing is far from being alright."
+    },
+    {
+      "name": "Black Swan",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/Sw0",
+      "date_watched": "2024-03-06",
+      "rating": 5.0
+    },
+    {
+      "name": "Anyone But You",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/EzA8",
+      "date_watched": "2024-03-06",
+      "rating": 2.0
+    },
+    {
+      "name": "Killer Soup",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/KWHI",
+      "date_watched": "2024-03-05",
+      "rating": 5.0
+    },
+    {
+      "name": "Dune: Part Two",
+      "year": 2024,
+      "letterboxd_uri": "https://boxd.it/pUfA",
+      "date_watched": "2024-03-04",
+      "rating": 4.5
+    },
+    {
+      "name": "Gasman",
+      "year": 1998,
+      "letterboxd_uri": "https://boxd.it/FWO",
+      "date_watched": "2024-03-03",
+      "rating": 4.5,
+      "liked": true
+    },
+    {
+      "name": "Joram",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/Efie",
+      "date_watched": "2024-03-02",
+      "rating": 5.0,
+      "review": "A filmmaker who went bankrupt making films like this clearly has a lot of grit and conviction in what he wants to say. It's one of the very few contemporary films made in complete disregard of the commercial machinery looming over cinema, and the novelty of its approach is proof of that. I mean, who else would make a film that tackles tribal Naxalism without reducing it to easy binaries?\nHowever hard-hitting Joram was, it also felt somewhat forgettable, and unlike Kashyap, Makhija still seems to be struggling to carve out a niche audience of his own."
+    },
+    {
+      "name": "Incident by a Bank",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/5A7w",
+      "date_watched": "2024-03-02",
+      "rating": 4.5
+    },
+    {
+      "name": "Nattbad",
+      "year": 2006,
+      "letterboxd_uri": "https://boxd.it/7RWU",
+      "date_watched": "2024-03-02",
+      "rating": 3.0
+    },
+    {
+      "name": "Autobiographical Scene Number 6882",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/5A7G",
+      "date_watched": "2024-03-02",
+      "rating": 3.5
+    },
+    {
+      "name": "Alps",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/2RHg",
+      "date_watched": "2024-03-01",
+      "rating": 4.5
+    },
+    {
+      "name": "The Last Fakir",
+      "year": 2005,
+      "letterboxd_uri": "https://boxd.it/tBmU",
+      "date_watched": "2024-03-01",
+      "rating": 4.5
+    },
+    {
+      "name": "Munchausen",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/i7HG",
+      "date_watched": "2024-02-29",
+      "rating": 3.5
+    },
+    {
+      "name": "The Strange Thing About the Johnsons",
+      "year": 2011,
+      "letterboxd_uri": "https://boxd.it/56nO",
+      "date_watched": "2024-02-29",
+      "rating": 3.0
+    },
+    {
+      "name": "Poor Things",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/tNWU",
+      "date_watched": "2024-02-29",
+      "rating": 4.0
+    },
+    {
+      "name": "Memories of Murder",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1TSo",
+      "date_watched": "2024-02-28",
+      "rating": 4.0
+    },
+    {
+      "name": "Holy Motors",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/3wai",
+      "date_watched": "2024-02-28",
+      "rating": 5.0,
+      "liked": true
+    },
+    {
+      "name": "Triangle of Sadness",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/hXlq",
+      "date_watched": "2024-02-27",
+      "rating": 5.0
+    },
+    {
+      "name": "Uncut Gems",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/gXGc",
+      "date_watched": "2024-02-27",
+      "rating": 4.0
+    },
+    {
+      "name": "The Square",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/e5YW",
+      "date_watched": "2024-02-27",
+      "rating": 4.0
+    },
+    {
+      "name": "Pretty Woman",
+      "year": 1990,
+      "letterboxd_uri": "https://boxd.it/2b6M",
+      "date_watched": "2024-02-27",
+      "rating": 3.0
+    },
+    {
+      "name": "Superbad",
+      "year": 2007,
+      "letterboxd_uri": "https://boxd.it/20hO",
+      "date_watched": "2024-02-27",
+      "rating": 3.5
+    },
+    {
+      "name": "Afwaah",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/zqEg",
+      "date_watched": "2024-02-27",
+      "rating": 3.0
+    },
+    {
+      "name": "Motichoor Chaknachoor",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/nSYk",
+      "date_watched": "2024-02-27",
+      "rating": 4.0
+    },
+    {
+      "name": "Three of Us",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/DQmq",
+      "date_watched": "2024-02-27",
+      "rating": 4.5
+    },
+    {
+      "name": "The Usual Suspects",
+      "year": 1995,
+      "letterboxd_uri": "https://boxd.it/29XE",
+      "date_watched": "2024-02-27",
+      "rating": 4.0
+    },
+    {
+      "name": "2 Guns",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/4oAk",
+      "date_watched": "2024-02-27",
+      "rating": 3.5
+    },
+    {
+      "name": "Anatomy of a Fall",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/yuDE",
+      "date_watched": "2024-02-26",
+      "rating": 4.5,
+      "review": "The film makes you aware of the ability of the filmmaker to manipulate the audience. Audience's opinion of the fall would shift by the mere tweaking of the tools that makeup what cinema is. Instead of revealing the mystery, the director makes you aware of the fallacy that story-telling is. And that you can never escape the fact that no matter what you do, you can never really know the truth. No matter how hard you study it's Anatomy you'll never unravel the truth of the Fall.",
+      "tags": [
+        "cannes",
+        "palm d'or"
+      ],
+      "lists": [
+        "favs"
+      ]
+    },
+    {
+      "name": "Anima",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/mxuc",
+      "date_watched": "2024-02-12",
+      "rating": 3.5
+    },
+    {
+      "name": "Blue Valentine",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/MxG",
+      "date_watched": "2024-01-14",
+      "rating": 4.0,
+      "review": "blue valentine, marriage story & before midnight - could be sorted into the same club for being truthfully honest about what a relationship is; there's some unexpected comfort in thinking about them in retrospect that somehow bypasses all the pain within them."
+    },
+    {
+      "name": "Knight of Cups",
+      "year": 2015,
+      "letterboxd_uri": "https://boxd.it/34Qq",
+      "date_watched": "2024-01-14",
+      "rating": 4.5,
+      "liked": true
+    },
+    {
+      "name": "Cigarettes & Coffee",
+      "year": 1993,
+      "letterboxd_uri": "https://boxd.it/3Diy",
+      "date_watched": "2024-01-07",
+      "rating": 3.5,
+      "review": "Three narratives connected with the thread of a 20 dollar bill & surrounded by the tradition of cigarettes & coffee. The film outdoes itself in terms of the cinematography, editing & storyline each aiding in the interleaving of the plots in the minimal scope of a diner on a freeway. PTA leaves us with opaque character motivations resulting the viewer to make sense of the hidden innuendos throughout the film. \nDialogues seems to come out of a template American screenplay in which gravitas is emphasised more than the substance. The dramatization & structurization makes for an interesting short however it's intentions and conclusions are quite elusive.",
+      "tags": [
+        "short film",
+        "pta"
+      ]
+    },
+    {
+      "name": "Kartaa",
+      "year": 2018,
+      "letterboxd_uri": "https://boxd.it/EQa2",
+      "date_watched": "2024-01-06",
+      "rating": 3.5,
+      "review": "The themes of cynicism, dysphoria and disparity in Randeep Jha's latest works like Kohrra and Trail By Fire can be traced down even to his directorial debut Kartaa. \nThe film centers around a swindling proletarian property dealer as he struggles with the challenges of his vocation and relations. The short in a pigeon-hole perspective is a plethora of universal relatable problems and is a dystopian take on it. The influence of his predecessor Anurag Kashyap is clearly visible in his vision and portrayal of despair in the society.",
+      "tags": [
+        "short film",
+        "largeshortfilms"
+      ]
+    },
+    {
+      "name": "Ajeeb Daastaans",
+      "year": 2021,
+      "letterboxd_uri": "https://boxd.it/ucR6",
+      "date_watched": "2024-01-05",
+      "rating": 3.5,
+      "review": "The advent of anthology in the Bollywood cine-scope started from the famous 2013's Bombay Talkies with the collaboration of four up-and-coming directors. They later reunited again for Lust Stories & Ghost Stories. Since then more than a few anthologies has been released featuring potential upcoming and sometimes seasoned directors. It's a perfect medium to encourage new talent by accommodating creative freedom and a support system, something which is quite elusive in the mainstream profit-oriented cinema. \nAjeeb Daastaans is a four film anthology  based on the theme of relationships that hinge on shaky grounds and their inevitable collapse.\n\nMajnu by Shashank Khaitan is definitely the odd film in this anthology, relying more on cast's star power and the grandeur set design. The premise of the film is juvenile and dramatized to a place that it looses it’s significance and becomes just a kitschy portrayal relying on sensuality and bold unintelligible dialogues, even the storyline was too crammed leading to a cheap climax. The film refreshes the memory of Karan Johar’s Lust Stories anthology in terms of it being a kitschy odd fish.\n\nKhilauna by Raj Mehta deals with the tussle between the rich class and their domestic workers. Although the elements of the subject matter are not fleshed the concept of both classes exploiting each other with whatever power at their behest, resorting even to flirtation is fascinating. Deceit and sensuality remain the central elements of the film questioning the position of the characters in the society and the society itself. The conclusion of the film is thrilling but half-cooked in terms of the narrative.\n\nGeeli Pucchi by Neeraj Ghaywan deals with the discrimination based on casteism, treatment of women in conservative Indian households and homosexuality outside the bubble of cinematic dramatization created by the mainstream movies. The love affair between a married brahmin woman with a low-caste factory worker ensues and progresses as they struggle to come to terms with their realities. The film wins your heart with it’s sensitivity and breaks it with the pessimistic conclusion. The film reminds me of the recently released anthology short directed by Konkona Sen herself, The Mirror.\n\nAnkahi by Kayose Irani is a film about the mother of a deaf going child and the turmoil she’s facing as the father can’t come to terms with the reality. She finds solace in another deaf artist and maintains a relationship skirting on the lines of adultery. Most of the conversation in the film is in sign language. The silence all through the film puts an added expectation on the actors to hold the scene which Shefali Shah and Manav Kaul excelled in.",
+      "tags": [
+        "netflix"
+      ]
+    },
+    {
+      "name": "Suraj Ka Satvan Ghoda",
+      "year": 1992,
+      "letterboxd_uri": "https://boxd.it/2Md6",
+      "date_watched": "2024-01-05",
+      "rating": 4.0
+    },
+    {
+      "name": "Pyaasa",
+      "year": 1957,
+      "letterboxd_uri": "https://boxd.it/10iq",
+      "date_watched": "2024-01-05",
+      "rating": 5.0,
+      "liked": true
+    },
+    {
+      "name": "Juice",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/hTsi",
+      "date_watched": "2024-01-05",
+      "rating": 3.5
+    },
+    {
+      "name": "That Day After Everyday",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/8u22",
+      "date_watched": "2024-01-05",
+      "rating": 4.0
+    },
+    {
+      "name": "Hazaaron Khwaishein Aisi",
+      "year": 2003,
+      "letterboxd_uri": "https://boxd.it/1BI6",
+      "date_watched": "2024-01-04",
+      "rating": 5.0,
+      "liked": true,
+      "lists": [
+        "favs"
+      ]
+    },
+    {
+      "name": "Kho Gaye Hum Kahan",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/x1qa",
+      "date_watched": "2024-01-02",
+      "rating": 3.0,
+      "review": "A film that is corresponded with the likes of Dil Chahta Hai & Zindagi Na Milegi Dobara sure does fall a little short of those classics but is fresh and one of the most relevant subjects of the decade. All in all the film is a mixed bag with it nailing the aesthetics and world building revolving around the contemporary present day influencer culture.  The credit for the impressive performances goes to the actors as well as the commendable casting choice of the lead characters.\n\nThe film does surely lack the longevity of the predecessor classics and fails in imbuing the same hopeful and inspirational message that makes them a go-to feel good staple. But that does speaks also to the present attention span lacking and content consuming era we are in.\n\nThe conflicts of the film feel half-baked and could’ve been a little more immaculate. The conclusion of the second half was also somewhat hasty resulting in the movie coming off a little preachy. \n\nThe vibes surely live up to the characteristic Zoya Akhtar benchmark and is a great feel-good piece of contemporary film.",
+      "tags": [
+        "netflix"
+      ]
+    },
+    {
+      "name": "Dunki",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/Ahr0",
+      "date_watched": "2023-12-31",
+      "rating": 2.5,
+      "review": "Fact that Indian cinema audience is at the height of stratification is apparent if you observe the top earning cinema hall movies. With a mature audience been exposed to finer ideas & world cinema finding their niche on streaming platforms the percent of underexposed audience surely has increased in cinema hall, that is quite apparent in the patterns observed in the top grossers in the Post-COVID era. With simplistic thrill-packed or star-powered formula films topping the charts ubiquitously. The treatment of various issues in these films have been superficial and oversimplified. On one hand the Indian audience is becoming more concious and demanding due to the accessible content consumption, on the other a huge section is completely oblivious to the changing era and enjoys the same if not even more rudimentary concepts and ideas. That creates a dichotomy for cinema producers as to, how and what films to create?\nThis confusion and struggle is evident in Dunki too. The subject of the film was potent but the treatment did not live upto Hirani's standards. Instead of the characters serving the film it felt that the movie was serving the actors, especially SRK. Which was unlike every Hirani movie. That in a line is everything that was lacking in Hirani's latest production.",
+      "tags": [
+        "hirani",
+        "cinema"
+      ]
+    },
+    {
+      "name": "Fursat",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/EVeo",
+      "date_watched": "2023-12-31",
+      "rating": 4.0,
+      "review": "One of the most experimental films produced in mainstream India, it feels like an art museum production, pushing the boundaries of cinema and storytelling. It amalgamates dance, musicals, science fiction, and Indian heritage through a crisscrossing narrative and opera-like performances.\nIt's a classic representation of Vishal Bhardwaj's artistic sensibilities — a liberated contemporary approach where science fiction is immersed in Indian culture, be it literature, folklore, architecture, and, most importantly, his music. The use of body performance as a storytelling device felt completely novel within the mainstream Indian landscape.\nWamiqa Gabbi truly nails the role becoming a staple Vishal Bhardwaj choice in his later productions. That said, the film does become a little incoherent at times and somewhat loses its resolution amidst all the innovation."
+    },
+    {
+      "name": "Ramprasad Ki Tehrvi",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/nTPy",
+      "date_watched": "2023-12-31",
+      "rating": 3.5,
+      "review": "Exploration of realism is scarce in Indian Cinema for it's considered mundane and uneventful. Ramprasad ki Tehrvi is a great rendition of the parallel alt cinema, centred around the 13 day event after one's death. It astutely points out the inter-relational dynamics along with the politics, back-bitching and hypocrisy of it all veiled under the constructs of courtesy and civility. All centred around the death of their father pointing out the irony and futility of life & relations.\n\nIt's Seema Pahwa's directorial debut based on the adaptation of her own play Pind Daan. The film did a great job reflecting the conventional, stereotypical joint familial associations."
+    },
+    {
+      "name": "Dhak Dhak",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/ATws",
+      "date_watched": "2023-12-28",
+      "rating": 3.5,
+      "review": "Four women from different societal sects come together for a trip to Khardung La. This film is one of the best portrayal of feministic liberation seen in Bollywood in a long time. It candidly points and strives against an umbrella of communal facets hindering women without being propogandic. It's an entertaining wholesome movie, being inspiring and self-reflective depending on where you stand. \nThe technique and narrative fumbles at a few places especially during the second half but the film is commendable considering it's the director Tarun Dudeja's feature debut.",
+      "tags": [
+        "netflix",
+        "dia mirza"
+      ]
+    },
+    {
+      "name": "Yuva",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/Uy8",
+      "date_watched": "2023-12-27",
+      "rating": 5.0,
+      "review": "This was my first exposure to Mani Ratnam. I was always aware of his reputation, but never quite understood it until now. Watching this felt like experiencing a more dynamic Kiarostami or Farhadi film — incredibly precise in technique, yet deeply rooted in a beautiful, unadorned Indian aesthetic with a quiet sense of poetry and romanticism.\nThe way the three narratives criss-cross and gradually come together is immaculate. Based on this one film alone, I find his sensibility and visual taste more compelling than Bhansali's, and even Bhardwaj's to an extent. The authenticity of his world-building rivals some of the best work from Bhardwaj and Kashyap.\nBeyond the performances and chemistry, the dialogues are among the best I've seen. It made perfect sense when I later discovered they were written by Kashyap — he's truly exceptional at it. Every lead performance is fantastic, with the only weak link being Esha Deol, whose chemistry with Ajay Devgn doesn't quite land.",
+      "tags": [
+        "netflix"
+      ],
+      "liked": true
+    },
+    {
+      "name": "WHAT DID JACK DO?",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/jcWe",
+      "date_watched": "2023-12-27",
+      "rating": 5.0,
+      "review": "An inspector interrogates an orangutan caught fleeing a railway station under suspicion of murdering his lover's companion, a hen. The ludicrous premise is both unsettling and comical, functioning almost as a satire of human relationships and the absurdity of our social constructs.\nThe exchanges between the inspector and the orangutan go in circles, filled with witty yet mildly counterproductive banter, often responding to serious inquiries with idioms and evasions. As the film unfolds, you're constantly torn between treating it as a comedic spectacle or digging deeper for meaning.\nOne line exchange that stayed with me, and perhaps encapsulates the film's twisted charm, is:\nDetective: \"Who's gonna believe an orangutan?\"\nOrangutan: \"Maybe a jury, big boy.\"",
+      "tags": [
+        "netflix",
+        "lynch",
+        "short film"
+      ]
+    },
+    {
+      "name": "Venice 70: Future Reloaded",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/6yhc",
+      "date_watched": "2023-11-24",
+      "rating": 5.0
+    },
+    {
+      "name": "Parasite",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/hTha",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Fight Club",
+      "year": 1999,
+      "letterboxd_uri": "https://boxd.it/2a9q",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "A Short Film About Love",
+      "year": 1988,
+      "letterboxd_uri": "https://boxd.it/1jXC",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Three Colours: Blue",
+      "year": 1993,
+      "letterboxd_uri": "https://boxd.it/2b7K",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Three Colours: Red",
+      "year": 1994,
+      "letterboxd_uri": "https://boxd.it/2b7q",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Three Colours: White",
+      "year": 1994,
+      "letterboxd_uri": "https://boxd.it/2b7A",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "The Piano Teacher",
+      "year": 2001,
+      "letterboxd_uri": "https://boxd.it/2886",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Amour",
+      "year": 2012,
+      "letterboxd_uri": "https://boxd.it/34Q6",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "The 400 Blows",
+      "year": 1959,
+      "letterboxd_uri": "https://boxd.it/2b1C",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Dunkirk",
+      "year": 2017,
+      "letterboxd_uri": "https://boxd.it/d0Y6",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Oppenheimer",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/wUow",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Barbie",
+      "year": 2023,
+      "letterboxd_uri": "https://boxd.it/bCLK",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "letterboxd_uri": "https://boxd.it/6YK",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Whiplash",
+      "year": 2014,
+      "letterboxd_uri": "https://boxd.it/7bQA",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Pulp Fiction",
+      "year": 1994,
+      "letterboxd_uri": "https://boxd.it/29Pq",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "The Wolf of Wall Street",
+      "year": 2013,
+      "letterboxd_uri": "https://boxd.it/3C1m",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Little Women",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/aSVk",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Inception",
+      "year": 2010,
+      "letterboxd_uri": "https://boxd.it/1skk",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "The Truman Show",
+      "year": 1998,
+      "letterboxd_uri": "https://boxd.it/18U8",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Joker",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/h4cS",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "letterboxd_uri": "https://boxd.it/gH0O",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "The Godfather",
+      "year": 1972,
+      "letterboxd_uri": "https://boxd.it/2aNK",
+      "date_watched": "2023-08-05"
+    },
+    {
+      "name": "Babylon",
+      "year": 2022,
+      "letterboxd_uri": "https://boxd.it/mM02",
+      "date_watched": "2023-08-05"
+    }
+  ]
+}

@@ -12,6 +12,7 @@ import PlaysContent from './pages/PlaysContent'
 import Reviews from './pages/Reviews'
 import ReviewContent from './pages/ReviewContent'
 import VideoPlayer from './pages/VideoPlayer'
+import Watchlist from './pages/Watchlist'
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
       <Route path="/plays/:slug" element={<PlaysContent />} />
       <Route path="/reviews" element={<Reviews />} />
       <Route path="/reviews/:slug" element={<ReviewContent />} />
+      <Route path="/watchlist" element={<Watchlist />} />
     </Routes>
   )
 }

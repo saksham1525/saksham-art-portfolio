@@ -14,7 +14,7 @@ export const homeProjects = [
   createProject('aaja\'23', '/images/aaja23.webp', '/video/aaja-23'),
   createProject('devdas', '/images/devd.jpg', '/video/devdas'),
   createProject('pulp fiction', '/images/pulp-fiction.jpg', '/video/pulp-fiction'),
-  createProject('untitled no. 15', '/images/untitled-no-15.jpg', '#project-14'),
+  createProject('untitled no. 15', '/images/untitled-no-15.jpg', '#untitled-no-15'),
   createProject('dil se', '/images/dilse.jpg', '/video/dil-se')
 ]
 
@@ -49,7 +49,7 @@ export const playsProjects = [
 export const reviewProjects = [
   { title: 'Before Midnight 2013', path: '/reviews/before-midnight' },
   { title: 'Anatomy of a Fall 2023', path: '/reviews/anatomy-of-a-fall' },
-  { title: 'Cigarettes & Coffee 1993', path: '/reviews/cigarettes-and-coffee' }
+  { title: 'Backrooms 2026', path: '/reviews/backrooms' }
 ]
 
 

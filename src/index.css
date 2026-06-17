@@ -785,6 +785,127 @@ a:hover {
     }
 }
 
+/* Watchlist Page */
+#watchlist .watchlist-content {
+    padding-top: 40px;
+}
+
+.watchlist-count {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 40px;
+    text-transform: lowercase;
+    letter-spacing: 0.5px;
+}
+
+.watchlist-year-group {
+    margin-bottom: 48px;
+}
+
+.watchlist-year {
+    font-family: Montserrat, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #999;
+    margin-bottom: 12px;
+}
+
+.watchlist-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.watchlist-item {
+    border-bottom: 1px solid #f0f0f0;
+    padding: 6px 0;
+}
+
+.watchlist-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+}
+
+.film-left {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    min-width: 0;
+    flex-shrink: 1;
+}
+
+.film-title {
+    font-style: italic;
+    font-size: 15px;
+    color: #333;
+    text-decoration: none;
+    flex-shrink: 1;
+    min-width: 0;
+}
+
+.film-title:hover {
+    color: #000;
+}
+
+.film-meta {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+.film-year {
+    font-size: 11px;
+    color: #bbb;
+}
+
+.film-rating {
+    font-size: 10px;
+    color: #888;
+    letter-spacing: 1px;
+}
+
+.film-liked {
+    font-size: 10px;
+    color: #c0392b;
+}
+
+.film-review-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 13px;
+    color: #bbb;
+    padding: 0;
+    line-height: 1;
+    font-family: inherit;
+    transition: color 0.2s;
+}
+
+.film-review-toggle:hover {
+    color: #333;
+}
+
+.film-review-toggle-placeholder {
+    display: inline-block;
+    width: 13px;
+}
+
+.film-review {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #555;
+    margin: 8px 0 4px;
+    padding-left: 0;
+    max-width: 640px;
+    white-space: pre-wrap;
+}
+
 /* Logo Styling */
 .brand-img { display: block; }
 .brand-img img { max-width: 60px; height: auto; display: block; }
