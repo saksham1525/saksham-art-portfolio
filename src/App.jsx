@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
+import Archive from './pages/Archive'
 import Film from './pages/Film'
 import FilmContent from './pages/FilmContent'
 import Edits from './pages/Edits'
@@ -17,6 +18,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
+      <Route path="/archive" element={<Archive />} />
       <Route path="/video/:slug" element={<VideoPlayer />} />
       <Route path="/film" element={<Film />} />
       <Route path="/film/:slug" element={<FilmContent />} />
