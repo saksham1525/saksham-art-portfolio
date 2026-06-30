@@ -46,3 +46,8 @@ The `dist/` folder will contain the static files ready to deploy.
 - Netlify (drag & drop the `dist` folder)
 - GitHub Pages
 - Any static hosting service
+
+## References
+https://www.lanthimos.com/
+https://www.flatsound.org/
+https://kogonada.com/
